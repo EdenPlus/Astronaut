@@ -1,6 +1,6 @@
 # Astronaut
 In-browser shoot 'em up.
 
-Trello: www.unlinked.com
+Trello: unlinked
 
 Game: http://codepen.io/EdenPlus/pen/wJXOyb
